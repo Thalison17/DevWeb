@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "O curso",
+      "author": "Thalison",
+      "content": "Um conteudo aqui"
+    },
+    {
+      "id": "2",
+      "title": "O curso 2",
+      "author": "Thalison",
+      "content": "Outro conteudo aqui"
+    },
+    {
+      "id": "3",
+      "title": "O curso 3",
+      "author": "Thalison",
+      "content": "Mais um conteudo aqui"
+    },
+    {
+      "id": "4",
+      "title": "O curso 4",
+      "author": "Thalison",
+      "content": "E outro conteudo aqui"
+    }
+  ]
+}
